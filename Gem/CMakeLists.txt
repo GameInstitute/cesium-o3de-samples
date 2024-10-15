@@ -5,7 +5,7 @@
 #       in which case it will see if that platform is present here or in the restricted folder.
 #       i.e. It could here : cesium-o3de-samples/Code/Platform/<platorm_name>  or
 #            <restricted_folder>/<platform_name>/cesium-o3de-samples/Code
-ly_get_list_relative_pal_filename(pal_dir ${CMAKE_CURRENT_LIST_DIR}/Platform/${PAL_PLATFORM_NAME} ${o3de_project_restricted_path} ${o3de_project_path} ${o3de_project_name})
+o3de_gem_setup("cesium-o3de-samples")
 
 # Now that we have the platform abstraction layer (PAL) folder for this folder, thats where we will find the
 # traits for this platform. Traits for a platform are defines for things like whether or not something in this project

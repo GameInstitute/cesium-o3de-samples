@@ -1,0 +1,19 @@
+{
+    "project_name": "cesium-o3de-samples",
+    "origin": "https://github.com/CesiumGS/cesium-o3de-samples",
+    "license": "https://github.com/CesiumGS/cesium-o3de-samples/blob/main/LICENSE",
+    "display_name": "CesiumforO3DESamples",
+    "summary": "A starter project demonstrating the features of Cesium for O3DE.",
+    "canonical_tags": [
+        "Project"
+    ],
+    "user_tags": [
+        "cesium-o3de-samples"
+    ],
+    "icon_path": "preview.png",
+    "engine": "o3de-sdk",
+    "external_subdirectories": [
+        "C:/Users/eric/O3DE/Gems/cesium-o3de"
+    ],
+    "project_id": "{14f28fad-e6eb-4318-92bd-649702b991d2}"
+}
