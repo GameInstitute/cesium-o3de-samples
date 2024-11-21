@@ -34,7 +34,10 @@ ly_add_target(
         PRIVATE
             AZ::AzGameFramework
             Gem::Atom_AtomBridge.Static
+            Gem::Atom_RHI.Reflect
         PUBLIC
+            Gem::Atom_RHI.Public
+            Gem::Atom_RPI.Public
             Gem::Cesium.Static
 )
 

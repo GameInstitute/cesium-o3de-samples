@@ -15,7 +15,7 @@
     "external_subdirectories": [
 
         "Gem",
-        "C:/Users/eric/O3DE/Gems/cesium-o3de"
+        "D:/O3DE/Gems/cesium-o3de"
     ],
     "restricted": "cesium-o3de-samples",
     "gem_names": [
